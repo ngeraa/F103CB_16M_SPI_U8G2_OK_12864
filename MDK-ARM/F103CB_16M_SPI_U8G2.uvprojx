@@ -190,7 +190,7 @@
             <hadIRAM2>0</hadIRAM2>
             <hadIROM2>0</hadIROM2>
             <StupSel>8</StupSel>
-            <useUlib>0</useUlib>
+            <useUlib>1</useUlib>
             <EndSel>0</EndSel>
             <uLtcg>0</uLtcg>
             <nSecure>0</nSecure>
@@ -670,11 +670,6 @@
               <FilePath>..\Drivers\U8g2\u8x8_capture.c</FilePath>
             </File>
             <File>
-              <FileName>u8x8_d_uc1601.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Drivers\U8g2\u8x8_d_uc1601.c</FilePath>
-            </File>
-            <File>
               <FileName>u8x8_debounce.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\Drivers\U8g2\u8x8_debounce.c</FilePath>
@@ -728,11 +723,6 @@
               <FileName>u8x8_u16toa.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\Drivers\U8g2\u8x8_u16toa.c</FilePath>
-            </File>
-            <File>
-              <FileName>u8x8_d_st7567.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Drivers\U8g2\u8x8_d_st7567.c</FilePath>
             </File>
             <File>
               <FileName>u8x8_d_st7565.c</FileName>
